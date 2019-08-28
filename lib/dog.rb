@@ -10,6 +10,6 @@ class Dog
   end
   
   def Self.name
-    @all
+    @@all
   end
 end 
