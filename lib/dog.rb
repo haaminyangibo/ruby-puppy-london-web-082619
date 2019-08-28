@@ -12,7 +12,7 @@ class Dog
   
   def self.all
     
-     name = @@all
+     puts @@all
   end
  
 end 
